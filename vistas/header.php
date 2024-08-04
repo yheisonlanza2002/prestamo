@@ -42,7 +42,7 @@ if (strlen(session_id()) < 1)
 
 <div class="container">
 <a href="concepto.php" id="logo" class="navbar-brand">
-
+<img src="img/compra.jpg" alt="">
 </a>
 <div class="clearfix">
 <button class="navbar-toggle" data-target=".navbar-ex1-collapse" data-toggle="collapse" type="button">
